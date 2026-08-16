@@ -97,7 +97,7 @@ Handles:
 - Message broadcasting
 - Message history
 - Persistent logging
-- Client cleanup
+- Client clleanup
 
 ### `chat_client.py`
 
@@ -267,7 +267,7 @@ Potential improvements include:
 **Ravishka Rathnayaka**
 
 Cybersecurity Undergraduate  
-SLTC
+SLTC Research University
 
 ---
 
