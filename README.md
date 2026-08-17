@@ -215,4 +215,60 @@ Server
 
 ---
 
+## ⚙️ Server Configuration
 
+The server supports environment-based configuration.
+
+| Variable | Purpose | Default |
+|---|---|---|
+| `CHAT_HOST` | Server host | `0.0.0.0` |
+| `CHAT_PORT` | Server port | `2024` |
+| `CHAT_LOG_DIR` | Message log directory | `logs` |
+| `CHAT_HISTORY_SIZE` | Maximum cached message history | `100` |
+| `CHAT_HISTORY_ON_SUBSCRIBE` | Recent messages returned when joining | `5` |
+
+---
+
+## 🎯 Learning Outcomes
+
+This project provided practical experience with:
+
+- WebSocket communication
+- Client-server architecture
+- Asynchronous programming with AsyncIO
+- Real-time data transmission
+- JSON-based communication
+- Connection lifecycle management
+- Multi-client communication
+- Application-layer protocols
+- Networking concepts
+- Persistent message logging
+
+---
+
+## 🔮 Future Improvements
+
+Potential improvements include:
+
+- Graphical web interface
+- Secure `wss://` connections
+- User authentication
+- Private messaging
+- Database-backed message history
+- Role-based chat rooms
+- Docker deployment
+- Cloud hosting
+- Automated testing
+
+---
+
+## 👨‍💻 Author
+
+**Ravishka Rathnayaka**
+
+Cybersecurity Undergraduate  
+SLTC Research University
+
+---
+
+> This project was developed for educational purposes as part of the CCS1305 – Communication Protocols & Models Mini Project.
